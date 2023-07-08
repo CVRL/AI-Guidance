@@ -20,7 +20,7 @@ In the figure above are examples from each data source. On the top row is one sa
 
 ## Obtaining the Data
 <p>  
-A copy of the dataset offered by the authors with the paper can be requested at <a href="https://cvrl.nd.edu/projects/data/">the CVRL webpage</a>.
+A copy of the dataset offered by the authors with the paper can be requested at <a href="https://cvrl.nd.edu/projects/data/#und-aaai-2023">the CVRL webpage</a>. The name of the collection used for this work is "UND AAAI 2023".
 </p>
 
 ## Method Used
